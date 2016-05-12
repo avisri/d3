@@ -1,0 +1,20 @@
+{
+    "name": "Mark B",
+    "title": "CEO",
+     "children": [
+      {
+        "name": "Win C",
+        "title": "Senior Director",
+        "children": [ {
+            "name": "Steven B",
+            "title": "Director",
+            "children": [ 
+            {"name": "Ram  Go" , "title": "Lead engineer" },
+            {"name": "Winn John", "title": "Lead engineer" },
+            {"name": "Avi Sri", "title": "Lead Engineer"}
+            ]
+        }
+        ]
+      }
+    ]
+}
